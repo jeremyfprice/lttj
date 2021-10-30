@@ -41,3 +41,7 @@ vignettes/*.pdf
 # Final docx and pdf Files
 *.docx
 *.pdf
+*.tif
+
+# System files
+.DS_Store
